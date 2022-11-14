@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class JawabanNo3{
-public class Cek {
+public class Coba {
 
 
     static int jmlTopLevel = 0;
@@ -67,7 +67,7 @@ public class Cek {
 
     public static void main(String[] args) {
         while(true){
-            Cek.Nik();
+            Coba.Nik();
         }
     }
 }
